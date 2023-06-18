@@ -29,7 +29,7 @@ If you want to contact me Pls refer to My SNS.
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00daf2?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-00daf2?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Python-2b63a4?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Cpp-00daf2?style=for-the-badge&logo=Cpp&logoColor=skyblue">
   <img src="https://img.shields.io/badge/Oracle-d3a102?style=for-the-badge&logo=oracle&logoColor=white">
   <br>
