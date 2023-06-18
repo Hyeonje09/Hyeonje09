@@ -2,8 +2,7 @@
   <div align="center">
   
 
-  ### <b> Hyeonje09 </b> 
-  ### <p>BSSM 22</p>
+  ### <b> Hyeonje09 </b>
 
 
 <a href="https://github.com/Hyeonje09"></a>
