@@ -31,8 +31,9 @@ If you want to contact me Pls refer to My SNS.
   <img src="https://img.shields.io/badge/C-00daf2?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Python-2b63a4?style=for-the-badge&logo=python&logoColor=yellow">
   <img src="https://img.shields.io/badge/-c++-black?style=for-the-badge&logo=c%2B%2B">
-  <br>
   <img src="https://img.shields.io/badge/MySQL-ac4534?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/PyTorch-ac4534?style=for-the-badge&logo=pytorch&logoColor=#EE4C2C">
+  <img src="https://img.shields.io/badge/Keras-ac4534?style=for-the-badge&logo=keras&logoColor=#D00000">
   <br>
   <hr>
 <div align="center">
