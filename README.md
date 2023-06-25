@@ -53,6 +53,7 @@ If you want to contact me Pls refer to My SNS.
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonje09&layout=compact&theme=onedark"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonje09&layout=compact&theme=onedark"/>
+  [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=pooh091110)](https://solved.ac/profile/****)
 </div>
 </div>
