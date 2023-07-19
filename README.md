@@ -7,6 +7,7 @@
 
 <a href="https://github.com/Hyeonje09"></a>
   <a href="https://www.instagram.com/hyeon__je__/"><img src="https://img.shields.io/badge/Instagram-FF0080?style=flat-round&logo=instagram&logoColor=white"/>
+  <a href="https://www.notion.so/Hyeon-Je-Jang-e6f1d278b4574304a94ab086d06d6ba2?pvs=4"><img src="https://img.shields.io/badge/#000000?style=flat-round&logo=notion&logoColor=white"/>
 </a>
 
 ---
